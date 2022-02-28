@@ -4,4 +4,4 @@
 2. Descarcă [acest proiect](https://github.com/zozulinskyi/russia-must-be-stopped/archive/refs/heads/main.zip) și deschide index.html în Tor Browser, sau
 3. Deschide [acest link](https://russia-must-be-stopped-6mpfu.ondigitalocean.app/) în Tor Browser
 
-P.S. Tab-ul din browser trebuie să fie activ (altfel se poate ca browser-ul să nu mai trimite request-uri)
+P.S. Tab-ul din browser trebuie să fie activ (altfel se poate ca browser-ul să nu mai trimită request-uri)
